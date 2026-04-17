@@ -1,0 +1,13 @@
+package com.example.flutterweb;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class FlutterwebApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
