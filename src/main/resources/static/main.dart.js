@@ -52652,7 +52652,7 @@ P(a){return B.Bd}}
 A.pG.prototype={
 pI(){var s=0,r=A.S(t.H),q
 var $async$pI=A.T(function(a,b){if(a===1)return A.P(b,r)
-while(true)switch(s){case 0:q=A.hF("https://www.google.com",0,null)
+while(true)switch(s){case 0:q=A.hF("test-flutter-web-production.up.railway.app/getHelloMsg",0,null)
 s=2
 return A.W(A.a4c(q,B.y8),$async$pI)
 case 2:if(!b)throw A.f("Could not launch "+q.k(0))
